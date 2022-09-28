@@ -1,6 +1,6 @@
 # img_candles
 
-Image Candles is a LAMFO project that used Convolutional Neural Networks (CNN) for Image Classification. An attempt was made to train the neural network in images such as the following:
+Image Candles is a LAMFO project that used Convolutional Neural Networks (CNN) for Image Classification. Please check the [article](https://jfin-swufe.springeropen.com/articles/10.1186/s40854-020-00187-0) that based and originated all of the discussions here contained. An attempt was made to train the neural network in images such as the following:
 
 ![AAL_weekly_from_2008-12-05_to_2009-03-13](https://github.com/vitorbborges/shap-values-img-recognoition/blob/main/Test/up/AAL_weekly_from_2008-12-05_to_2009-03-13.png)
 
